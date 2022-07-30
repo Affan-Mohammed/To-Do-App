@@ -6,7 +6,6 @@ The main motive of creating this application was to learn how to work with Djang
  1. `git clone https://github.com/Amialx/To-Do-App.git`
  2. `cd todo-app`
  3. `pip install -r requirements.txt`
- 4. `pip install -e .`
 ### Running the App:
 1. cd (project folder)
 2. npm run build
